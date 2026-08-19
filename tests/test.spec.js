@@ -1,0 +1,1 @@
+select * from customers where country='Germany' and city='Berlin'
