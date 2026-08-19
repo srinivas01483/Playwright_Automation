@@ -1,0 +1,1 @@
+require("playwright@test").test.describe.configure({mode: "parallel"});
